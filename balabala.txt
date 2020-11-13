@@ -12,3 +12,7 @@ Add cat gugu
 Add cat lili
 Add dog 1
 Add dog 2
+Add mouse 1
+
+Add mouse kiki
+Add mouse 3
