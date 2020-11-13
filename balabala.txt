@@ -19,3 +19,4 @@ Add mouse 3
 Add dog 3
 Add rabbit 1
 Add rabbit 2
+Add rabbit 3
