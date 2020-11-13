@@ -17,4 +17,7 @@ Add mouse 1
 Add mouse kiki
 Add mouse 3
 Add dog 3
+Add rabbit 1
+Add rabbit 2
+Add rabbit 3
 Add dog 4
