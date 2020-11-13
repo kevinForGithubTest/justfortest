@@ -10,3 +10,4 @@ Add dog java
 Add cat mimi
 Add cat gugu
 Add cat lili
+Add dog 1
