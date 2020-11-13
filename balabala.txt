@@ -5,9 +5,8 @@ Add dog wangwang
 Add cat haha
 Add cat nini
 Add dog gaga
-<<<<<<< HEAD
 Add dog wangcai
 Add dog java
-=======
 Add cat mimi
->>>>>>> add cat mimi
+Add cat gugu
+
