@@ -26,3 +26,5 @@ Add rebase 1
 Add rebase 2
 
 Add dog 5
+
+stash-1
